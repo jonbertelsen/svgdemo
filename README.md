@@ -1,9 +1,5 @@
-# Skabelon til Java webprojekter
+# SVG Java og JSP
 
-Denne skabelon anvendes på 2. semester på datamatikeruddannelsen i Lyngby og på Bornholm. Den er baseret på et command pattern.
+Dette repo indeholder et forslag til hvordan man kan generere SVG tegninger i Java webstack.
 
-## Dokumentation
-
-Her kan man beskrive hvad projektet består af og hvordan man kan installere det på localhost og på en produktionsserver.
-
-
+Demoen er bygget på skabelon, som anvendes på 2. semester på datamatikeruddannelsen i Lyngby og på Bornholm. Den er baseret på et command pattern.
